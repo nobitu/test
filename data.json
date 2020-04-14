@@ -1,6 +1,6 @@
 {
   "appId": "com.hi.neighbor.ss",
-  "isLive": true,
+  "isLive": false,
   "moveId": "com.test.moveid",
   "appVersion":"1.2.3",
   "moveLink":"google.com"
