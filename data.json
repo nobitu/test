@@ -4,5 +4,5 @@
   "moveId": "com.test.moveid",
   "moveLink":"https://github.com/nobitu/test/edit/master/data.json",
   "appVersion":"1.2.3",
-  "isOnStore": true
+  "isOnStore": false
 }
