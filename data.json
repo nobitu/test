@@ -1,6 +1,5 @@
 {
   "appId": "com.hi.neighbor.ss",
-  "isLive": false,
+  "isLive": true,
   "moveId": "com.test.moveid"
-  
 }
