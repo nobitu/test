@@ -6,5 +6,5 @@
   "appVersion":"1.2.3",
   "moveLink":"https://www.google.com/",
   "isOnStore":true,
-  "isShowInter": true
+  "isShowInter": false
 }
